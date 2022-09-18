@@ -6,3 +6,5 @@ if user give 1 , then  Registraion function runs , where user should give correc
 like this all functions is defined accoridng to assignment and tested plenty number of times.
 data.txt file  where user email and password is stored.
 thanks.
+
+KINDLY CHANGE THE DATA.TXT LOCATION IN ALL REUIQRED PLACES , AS THE FILELOCATION IS GIVEN ACCORDING TO MY WORKSTATION , KINDLY CHANGE IT TO CURRENT WORKSTATION PLACE.
